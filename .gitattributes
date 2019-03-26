@@ -1,0 +1,5 @@
+*.eeg filter=lfs diff=lfs merge=lfs -text
+*.ehst filter=lfs diff=lfs merge=lfs -text
+*.hfinf filter=lfs diff=lfs merge=lfs -text
+*.vhdr filter=lfs diff=lfs merge=lfs -text
+*.vmrk filter=lfs diff=lfs merge=lfs -text
